@@ -1,2 +1,1 @@
-# https-username.github.io-my-ngl-site-
-Created by awishak 
+https://username.github.io/my-ngl-site
